@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![GitHub Snake Animation](https://raw.githubusercontent.com/notmuzakki/notmuzakki/refs/heads/output/github-snake-dark.svg)
 <!--
 **notmuzakki/notmuzakki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
