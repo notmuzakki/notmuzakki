@@ -4,4 +4,4 @@
  Through code and security knowledge, I want to contribute to creating a safer digital world.<br>
  <em>"Per Aspera Ad Astra"</em> - Through adversity to the stars.</p>
                 
-![GitHub Snake Animation](https://raw.githubusercontent.com/notmuzakki/notmuzakki/refs/heads/output/github-snake.svg)
+![GitHub Snake Animation](https://raw.githubusercontent.com/notmuzakki/notmuzakki/refs/heads/output/github-snake-dark.svg)
