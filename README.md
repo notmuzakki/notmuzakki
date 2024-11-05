@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there NoTMuzakki👋
 
 ![GitHub Snake Animation](https://raw.githubusercontent.com/notmuzakki/notmuzakki/refs/heads/output/github-snake-dark.svg)
 <!--
